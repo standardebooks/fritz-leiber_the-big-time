@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fritz-leiber/the-big-time</dc:identifier>
 		<dc:date>2015-11-04T23:25:17Z</dc:date>
-		<meta property="dcterms:modified">2015-11-07T01:11:27Z</meta>
+		<meta property="dcterms:modified">2015-11-07T06:05:06Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
