@@ -19,7 +19,7 @@ section > header{
 	text-align: center;
 }
 
-*[epub|type~="epigraph"]{
+[epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
 	margin: 3em;
@@ -29,44 +29,44 @@ section > header{
 	display: inline-block;
 }
 
-*[epub|type~="epigraph"] em{
+[epub|type~="epigraph"] em{
 	font-style: normal;
 }
 
-*[epub|type~="epigraph"] cite{
+[epub|type~="epigraph"] cite{
 	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
 }
 
-*[epub|type~="z3998:song"]{
+[epub|type~="z3998:song"]{
 	font-style: italic;
 }
 
-*[epub|type~="z3998:verse"] p,
-*[epub|type~="z3998:song"] p{
+[epub|type~="z3998:verse"] p,
+[epub|type~="z3998:song"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:verse"] p span,
-*[epub|type~="z3998:song"] p span{
+[epub|type~="z3998:verse"] p span,
+[epub|type~="z3998:song"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-*[epub|type~="z3998:verse"] br,
-*[epub|type~="z3998:song"] br{
+[epub|type~="z3998:verse"] br,
+[epub|type~="z3998:song"] br{
 	display: none;
 }
 
-*[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
-*[epub|type~="z3998:verse"] + p,
-*[epub|type~="z3998:song"] + p{
+[epub|type~="z3998:verse"] + p,
+[epub|type~="z3998:song"] + p{
 	text-indent: 0;
 }
 
