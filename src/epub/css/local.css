@@ -65,7 +65,6 @@ section > header{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:verse"] + p,
 [epub|type~="z3998:song"] + p{
 	text-indent: 0;
 }
