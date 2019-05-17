@@ -26,23 +26,24 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Big Time</dc:title>
 		<meta property="file-as" refines="#title">Big Time, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">War stories</dc:subject>
 		<dc:subject id="subject-3">Time travel -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/32256</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/32256</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/32256</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85145220</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;At the time of the release of this ebook edition of &lt;i&gt;The Big Time&lt;/i&gt;, it remains the only Hugo-award-winning work in the public domain. That makes it a very special treasure indeed!&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Big Time&lt;/i&gt; tells the tale of a group of servicemembers who work in facilities isolated from regular space-time. They’re involved in a war conducted by two shadowy groups that spans time itself, with all of humanity as pawns on an ever-changing historical battlefield. It explores a fascinating range of themes including time travel, the purpose of war, isolation, and love in the face of it all.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32256</dc:source>
 		<dc:source>https://archive.org/details/galaxymagazine-1958-03</dc:source>
