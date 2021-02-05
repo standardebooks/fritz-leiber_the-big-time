@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85145220</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="term" refines="#subject-3">sh2008112697</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A motley collection of servicemembers escape a plot as two mysterious factions wage an epic war across time itself.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
