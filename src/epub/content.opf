@@ -48,7 +48,7 @@
 		<dc:source>https://archive.org/details/galaxymagazine-1958-03</dc:source>
 		<dc:source>https://archive.org/details/galaxymagazine-1958-04</dc:source>
 		<meta property="se:word-count">40405</meta>
-		<meta property="se:reading-ease.flesch">75.44</meta>
+		<meta property="se:reading-ease.flesch">75.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Big_Time_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fritz-leiber_the-big-time</meta>
 		<dc:creator id="author">Fritz Leiber</dc:creator>
